@@ -15,7 +15,7 @@ del guest[0]
 guest.insert(0, 'Ouma Hettie')
 print(f'And this is the updated list!! {guest}')
 print(f'\nHi!! {guest[0]}! {invite}')
-print(f'\nHi!! {guest[0]}! {invite}')
+print(f'\nHi!! {guest[2]}! {invite}')
 print(f'\nHey {guest[1]}!! {invite}')
 
 
